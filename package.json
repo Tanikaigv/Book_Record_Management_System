@@ -1,0 +1,25 @@
+{
+  "name": "library_management_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanikaigv/Book_Record_Management_System.git"
+  },
+  "author": "Tanikai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanikaigv/Book_Record_Management_System/issues"
+  },
+  "homepage": "https://github.com/Tanikaigv/Book_Record_Management_System#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  }
+}
